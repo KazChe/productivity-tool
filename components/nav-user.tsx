@@ -61,7 +61,7 @@ export function NavUser({
           <div className="flex items-center gap-2 px-1 py-1.5 text-left text-sm transition-all">
             <Avatar className="h-7 w-7 rounded-md">
               <AvatarImage src={user.avatar} alt={user.name} />
-              <AvatarFallback>CN</AvatarFallback>
+              <AvatarFallback>EVIL</AvatarFallback>
             </Avatar>
             <div className="grid flex-1">
               <div className="font-medium">{user.name}</div>

@@ -266,13 +266,13 @@ export function AppSidebar() {
           <SidebarLabel>Help</SidebarLabel>
           <NavSecondary items={data.navSecondary} />
         </SidebarItem>
-        <SidebarItem>
+        {/* <SidebarItem>
           <StorageCard />
-        </SidebarItem>
+        </SidebarItem> */}
       </SidebarContent>
-      <SidebarFooter>
+      {/* <SidebarFooter>
         <NavUser user={data.user} />
-      </SidebarFooter>
+      </SidebarFooter> */}
     </Sidebar>
   )
 }
