@@ -37,24 +37,24 @@ import {
 const data = {
   teams: [
     {
-      name: "Acme Inc",
+      name: "cyrus inc",
       logo: Atom,
       plan: "Enterprise",
     },
     {
-      name: "Acme Corp.",
+      name: "acme corp.",
       logo: Eclipse,
       plan: "Startup",
     },
     {
-      name: "Evil Corp.",
+      name: "evil corp.",
       logo: Rabbit,
       plan: "Free",
     },
   ],
   user: {
-    name: "shadcn",
-    email: "m@example.com",
+    name: "cyrus",
+    email: "cy@probabo.io",
     avatar: "/avatars/shadcn.jpg",
   },
   navMain: [
